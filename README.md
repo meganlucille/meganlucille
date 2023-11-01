@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meganjohnson2
+- 👋 Hi, I’m @meganlucille
 - 👀 I’m interested in software engineering, web development, and data analytics!
 - 📫 How to reach me: meganljo24@gmail.com
 
